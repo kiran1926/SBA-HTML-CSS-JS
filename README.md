@@ -1,9 +1,11 @@
 # SBA-HTML-CSS-JS
 3-Page Website Assignment : 
+
 Project Overview :
    This project is a functional 3-page website that includes Sign In/Sign Up, Create Account, and Home Page functionality. The website demonstrates the use of HTML, CSS, and JavaScript to create a responsive and interactive user interface.
 
 Features:
+
 Page 1: 
 Sign In/Sign Up Page - 
   Allows users to sign in or navigate to the Create Account page.
